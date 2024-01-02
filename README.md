@@ -1,4 +1,4 @@
-# Azure AD B2C Customer User API
+# Azure-B2C-User-CRUD-Example
 
 This script is a demonstration of how to use the Azure AD B2C User API to create, update and delete customer accounts (aka. users with local account identities).
 
@@ -35,4 +35,3 @@ npm run test
 - [Azure AD B2C Application](https://docs.microsoft.com/en-us/azure/active-directory-b2c/tutorial-register-applications?tabs=app-reg-ga) with the following permission:
     - `User.ReadWrite.All`
 - [Node.js](https://nodejs.org/en/download/)
-# Azure-B2C-User-CRUD-Example
